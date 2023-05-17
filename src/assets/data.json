@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "date": "04/04/2023",
+      "title": "SharanSoft",
+      "description": " This is sample description about project that provides technology-based solutions for businesses to improve operational efficiency and customer experience.",
+      "url": "https://service-site.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+    {
+      "date": "20/11/2022",
+      "title": "Web Phishing Detection",
+      "description": "This projects uses various techniques such as data collection, data preprocessing, feature extraction, and machine learning algorithms to detect phishing URLs.",
+      "url": "https://youtu.be/xrmKTgQa_uo",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/04/22/22/57/hacker-3342696_960_720.jpg"
+    },
+
+    {
+      "date": "11/04/2023",
+      "title": "VIDEO HUB",
+      "description": "This is Video Hub project that we can watch video and helps you to upload videos to the site.",
+      "url": "https://react-video-app-beta-nine.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "18/04/2023",
+      "title": "XCrypto",
+      "description": "This is the sample description about the project that will show the value of cryptocurrencies live.",
+      "url": "https://crypto-app-six-ebon.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "03/05/2023",
+      "title": "REACT CART",
+      "description": "This projects mainly focus on how the shopping cart is being created and it shows how redux is working.",
+      "url": "https://shopping-cart-iota-sandy.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "14/05/2023",
+      "title": "PORTFOLIO",
+      "description": "This is my personal portfolio app where you can know more about me.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
